@@ -498,12 +498,12 @@ a:active {
     margin: var(--nav-item-margin);
 }
 
-.nav .navlink {
+.nav .nav-link {
     display: block;
     padding: 0.5rem 1rem;
 }
 
-.nav .navlink:hover {
+.nav .nav-link:hover {
     color: var(--nav-item-link-hover);
 }
     
