@@ -537,7 +537,7 @@ ul.row {
     text-align: right;
 }
 
-.row:after {
+.row::after {
     content: "";
     display: table;
     clear: both;
