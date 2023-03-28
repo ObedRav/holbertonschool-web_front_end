@@ -537,6 +537,7 @@ a:active {
 .nav .nav-link {
     display: block;
     padding: 0.5rem 1rem;
+    color: #f3f3f3;
 }
 
 .nav .nav-link:hover {
@@ -561,6 +562,10 @@ ul.row {
     margin: 0;
     font-size: var(--font-size-small);
     color: var(--text-color);
+}
+
+.footer-nav-link {
+    color: #efeded;
 }
 
 .footer ul {
@@ -709,6 +714,7 @@ ul.row {
     display: block;
     text-decoration: none;
     padding-top: 45%;
+    color: #efeded;
 }
 
 .card-work .card-title a::after {
