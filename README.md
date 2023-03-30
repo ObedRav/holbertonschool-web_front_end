@@ -1,6 +1,17 @@
-# html_advanced
-In this project, you will learn how to use HTML tags to structure a web page. No CSS, no styling - don’t worry, the final page will be “ugly” it’s normal, it’s not the purpose of this project.
+# Holberton School Web Front-End
 
-Important note: details are important! lowercase vs uppercase / wrong letter… be careful!
+This repository contains the source code for the Holberton School web front-end projects.
 
-You can watch it [here](https://obedrav.github.io/holbertonschool-web_front_end/)
+<div align="center">
+    <img src="https://cdn.programadoresbrasil.com.br/wp-content/uploads/2020/02/Introduction-to-HTML-and-CSS-for-Beginners-Hafiza-Rabbia-Shafiq-768x432.jpg">
+</div>
+
+## Project Description :alien:
+
+The Holberton School web front-end projects are a series of exercises in front-end web development. The projects cover a range of topics, including HTM and CSS.
+
+Each project directory contains the project files, including HTML, CSS, as well as any necessary images or other assets.
+
+## Project
+
+If you want to visualice the project click [here](https://obedrav.github.io/holbertonschool-web_front_end/)
