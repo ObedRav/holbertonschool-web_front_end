@@ -12,6 +12,10 @@ The Holberton School web front-end projects are a series of exercises in front-e
 
 Each project directory contains the project files, including HTML, CSS, as well as any necessary images or other assets.
 
-## Project
+## Project :tram:
 
-If you want to visualice the project click [here](https://obedrav.github.io/holbertonschool-web_front_end/)
+### Mockup :bellhop_bell:
+
+<img src="./mockup.png">
+
+If you want to visualice the project click [here!!!](https://obedrav.github.io/holbertonschool-web_front_end/)
