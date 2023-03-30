@@ -5,7 +5,7 @@
 </div>  
 <br>
 
-## Description
+## Description :hotsprings:
 This directory contains the source code for the Holberton School web front-end CSS Advanced project.
 
 ## Project Description :ghost:
